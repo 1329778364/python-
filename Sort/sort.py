@@ -247,7 +247,8 @@ print(s3.A)
 # 非递归算法
 
 
-
+def fuck():
+    print("jbiobva")
 
 # aeibfvobvoiab vlav
 # sklnbak

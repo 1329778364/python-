@@ -28,6 +28,8 @@ def quick_sort(nums, start, end):
 
 
 if __name__ == '__main__':
-    nums = [54, 26, 93, 17, 77, 31, 44, 55, 20]
+    nums = [53, 2, 2621, 10, 20, 50, 30, 21, 54, 87, 95, 6, 5, 5, 6, 8, 3000, 12, 50]
+    # nums = [54, 26, 93, 17, 77, 31, 44, 55, 20]
     quick_sort(nums, 0, len(nums) - 1)
     print(nums)
+    print(len(nums))
